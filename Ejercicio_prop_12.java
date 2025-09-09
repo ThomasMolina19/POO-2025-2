@@ -3,7 +3,7 @@ package POO-2025-2.Taller_1;
 public class Ejercicio_prop_12 {
     public static void main(String[] args) {
         double Horas,CostoPorHora,PorcentajeRetencion,SalarioBruto,SalarioNeto;
-        Horas = 40;
+        Horas = 48;
         CostoPorHora = 5000;
         SalarioBruto = Horas*CostoPorHora;
         PorcentajeRetencion = (0.125*SalarioBruto);
