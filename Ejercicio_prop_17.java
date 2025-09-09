@@ -1,4 +1,4 @@
-package POO-2025-2.Taller_1;
+package POO_2025_2.Taller_1;
 
 public class Ejercicio_prop_17 {
     public static void main(String[] args) {
